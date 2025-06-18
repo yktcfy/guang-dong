@@ -130,3 +130,7 @@ http://ipipip/rtp/239.77.0.212:5146
 http://ipipip/rtp/239.253.43.19:5146
 #EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视高清",早期教育
 http://ipipip/rtp/239.77.0.180:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视高清",CETV1
+http://ipipip/rtp/239.77.1.222:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视高清",CETV4
+http://ipipip/rtp/239.253.43.114:5146
