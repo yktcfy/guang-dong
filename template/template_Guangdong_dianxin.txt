@@ -122,3 +122,5 @@ http://ipipip/rtp/239.253.43.123:5146
 http://ipipip/rtp/239.253.43.124:5146
 #EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://live.fanmingming.com/tv/卫生健康.png" group-title="卫视高清",卫生健康
 http://ipipip/rtp/239.77.0.212:5146
+#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视高清",电视指南
+http://ipipip/rtp/239.253.43.19:5146
